@@ -34,7 +34,7 @@ pip3 install torch-spline-conv==1.2.1 -f https://pytorch-geometric.com/whl/torch
 pip3 install torch_geometric==1.4.3
 
 #
-sudo wget -P ./scripts/ https://github.com/sbustreamspot/sbustreamspot-data/blob/master/all.tar.gz
+sudo wget -P ./threaTrace/graphchi-cpp-master/graph_data/streamspot/ https://github.com/sbustreamspot/sbustreamspot-data/blob/master/all.tar.gz
 cd ./threaTrace/scripts/
 python parse_streamspot.py
 python train_streamspot.py
