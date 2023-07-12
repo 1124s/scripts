@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #environment:ubuntu 20.04 LTS
+
 #安装依赖
 mkdir baseline
 cd baseline
